@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @trelo-bifteki. 🤓 I am a full-stack developer focused on Web technologies
+- 👀 I'm interested in software development, information systems and service delivery.
+- 👨‍💻 I have worked in a variety of different projects including telecommunications, banking and transportation sector.
+- ❤️ I'm passionate about new web technologies, intuitive UX and resilient systems
